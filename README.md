@@ -28,13 +28,3 @@ Below is a short list of tool and languages that I know. It's not complete and I
 <br />
 
 ---
-
-### 📊 Stats
-
-Below are Github stats. **Please note**, that my activity on Github is low, because I mostly use private repositories in various organizations.
-
-![THL's GitHub stats](https://github-readme-stats.vercel.app/api?username=tl87&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tl87&theme=gruvbox&border_radius=4.5) --
-
----

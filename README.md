@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on multiple projects, many which are not public or hosted at Github
 - 🌱 I’m always learning and trying to stay on top
 - 📫 How to reach me: <gith-inc.5b9ak@slmails.com>
-- ⚡ Fun fact: I love Pizza and Pepsi Max
-- 🗣 Blog: <https://theunix.dad/>
+- ⚡ Fun fact: I love Pizza
 
 ---
 

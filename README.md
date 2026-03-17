@@ -1,30 +1,42 @@
-# T H L
+# Profile
 
-**`Network and system administrator with a passion for UNIX and Linux`**
+👋 Hey there
 
-### 👨 Info
+**`Network & System Administrator | UNIX & Linux Enthusiast | Automation Addict`**
 
-- 🔭 I’m currently working on multiple projects, many which are not public or hosted at Github
-- 🌱 I’m always learning and trying to stay on top
-- 📫 How to reach me: <gith-inc.5b9ak@slmails.com>
-- ⚡ Fun fact: I love Pizza
+I’m a lifelong tinkerer who fell in love with UNIX and Linux early on and never looked back.
+I enjoy building reliable systems, solving tricky problems and automation.
+
+### 👨‍💻 About Me
+
+    🔭 Working on a mix of private and internal projects (the fun stuff is always behind NDAs)
+    🌱 Constantly exploring new technologies, tools, and ways to break… then fix things
+    📫 Reach me at: mailto:gith-inc.5b9ak@slmails.com
+    ⚡ Fun fact: My two great loves are Pizza and Linux — in that order depending on the day
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools
 
-Below is a short list of tool and languages that I know. It's not complete and I know more, but these I felt was worth highlighing.
+Here’s a curated snapshot of what I work with regularly, there are alot more, but below felt important to highlight:
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Redhat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Podman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img align="left" alt="Advanced Networking" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" />
-<br />
+    Python
+    Shell / Bash
+    Markdown
+    Linux
+    Networking
+    Troubleshooting
+    System Administration
+    Git
+    Ansible & Automation
+
+---
+
+🚀 What I Enjoy
+
+    Building standardised, secure and maintainable infrastructure
+    Automating repetitive tasks
+    Diving deep into technology, especially Linux/UNIX
+    Experimenting with new tools and technologies
 
 ---

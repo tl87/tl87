@@ -11,7 +11,6 @@ I enjoy building reliable systems, solving tricky problems and automation.
 
     🔭 Working on a mix of private and internal projects (the fun stuff is always behind NDAs)
     🌱 Constantly exploring new technologies, tools, and ways to break… then fix things
-    📫 Reach me at: mailto:gith-inc.5b9ak@slmails.com
     ⚡ Fun fact: My two great loves are Pizza and Linux — in that order depending on the day
 
 ---
